@@ -1,6 +1,5 @@
 package com.example.demo.endpoint.rest.controller.health;
 
-import com.example.demo.PojaGenerated;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
